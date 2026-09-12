@@ -1,0 +1,11 @@
+{
+  "description": "Personal cybersecurity portfolio",
+  "owner": {
+    "repo": "https://github.com/wbossw/wbosw.github.io",
+    "email": "hugosanchezz@proton.me",
+    "username": "wbossw"
+  },
+  "records": {
+    "CNAME": "wbossw.github.io"
+  }
+}
